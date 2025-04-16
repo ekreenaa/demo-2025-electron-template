@@ -35,5 +35,14 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "vite": "^5.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekreenaa/demo-2025-electron-template.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ekreenaa/demo-2025-electron-template/issues"
   }
 }
